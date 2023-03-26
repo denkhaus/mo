@@ -1,4 +1,4 @@
-module github.com/samber/mo
+module github.com/denkhaus/mo
 
 go 1.18
 
